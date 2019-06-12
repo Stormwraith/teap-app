@@ -16,5 +16,10 @@ namespace TestApp
     {
       InitializeComponent();
     }
+
+    private void btnTest_Click(object sender, EventArgs e)
+    {
+      // Insert library code here
+    }
   }
 }
